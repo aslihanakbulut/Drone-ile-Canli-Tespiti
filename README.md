@@ -1,4 +1,4 @@
-# Drone-ile-Canl-Tespiti
+# Drone-ile-Canli-Tespiti
 Bu projede, bir drone ile belirli bir alanda canlı tespiti gerçekleştirmek 
 amaçlanmaktadır. Bunun için gerekli donanım parçaları temin edildikten sonra bir 
 drone üzerine çeşitli sensörler eklenmiştir. Alınan verilere kullanıcı tarafından daha 
