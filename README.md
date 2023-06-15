@@ -8,6 +8,6 @@ Projede quadcopter için gerekli olan motor, ESC, pervane, uçuş kontrol kartı
 
 MIT App Inventor üzerinde tasarlanan mobil arayüz (Quadcopter.aia) ve C# ile tasarlanan bilgisayar arayüzü (DroneKontrol.sln) için gerekli dosyalara ulaşabilrsiniz.
 
-Projede drone üzerine entegre edilen 
+Projede drone üzerine entegre edilen devrenin kaynak kodunu (DroneKontrol.ino) inceleyebilirsiniz.
 
 
